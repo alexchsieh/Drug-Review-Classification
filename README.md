@@ -1,5 +1,8 @@
 # Drug-Review-Analysis
 
+## Your Contributions
+Worked on this through Google Collab and 1-2 partners committed all the code. Contributed to the overall project architecture.
+
 ## Initial Goals
 Our approach employs both supervised (logistic regression) and unsupervised models(k-means clustering) to determine correlations between various attributes of the Drug review dataset. Our main goal is to accurately predict how a drug would be rated based on a given review. Furthermore, we aim to discover patterns and trends in the data that can effectively guide decision-making in future drug recommendations.
 
